@@ -1,0 +1,22 @@
+Advanced Robots.txt for Live Gully Cricket Scorer
+
+Domain: https://live-gully-cricket-scorer.netlify.app/
+
+Allow all major search engine bots to crawl the entire site
+
+User-agent: *
+Allow: /
+
+Specifically ensure Googlebot Image can index your rich image gallery
+
+User-agent: Googlebot-Image
+Allow: /
+
+Specifically ensure Google's mobile bot crawls successfully for mobile-first indexing
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+Point directly to the advanced image sitemap
+
+Sitemap: https://live-gully-cricket-scorer.netlify.app/sitemap.xml
