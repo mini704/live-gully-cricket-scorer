@@ -1,0 +1,70 @@
+<url>
+    <loc>https://live-gully-cricket-scorer.netlify.app/</loc>
+    <lastmod>2026-06-20T12:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+
+    <!-- 1. App Logo -->
+    <image:image>
+        <image:loc>https://i.ibb.co/KxNbNMK7/Whats-App-Image-2026-01-29-at-11-11-55-AM-removebg-preview.png</image:loc>
+        <image:title>Live Gully Cricket Scorer Official Premium Logo</image:title>
+        <image:caption>Official branding logo for Live Gully Cricket Scorer, the premium local cricket scoring and tournament management web application.</image:caption>
+        <image:geo_location>India</image:geo_location>
+    </image:image>
+
+    <!-- 2. Home Dashboard Screenshot -->
+    <image:image>
+        <image:loc>https://i.ibb.co/27Q7PzLW/home-page.jpg</image:loc>
+        <image:title>Manage Local Cricket Tournaments Easily Dashboard</image:title>
+        <image:caption>Live Gully Cricket Scorer Home Dashboard - Manage local tennis ball cricket tournaments, check live scores, and access quick organizer tools.</image:caption>
+        <image:geo_location>India</image:geo_location>
+    </image:image>
+
+    <!-- 3. Live Scoring UI Screenshot -->
+    <image:image>
+        <image:loc>https://i.ibb.co/M5sFG4rz/scoring-page.jpg</image:loc>
+        <image:title>Live Ball-by-Ball Cricket Scoring App Interface</image:title>
+        <image:caption>Live Cricket Scoring UI - Score gully cricket matches live with precise ball-by-ball updates, live run rates, partnerships, and over trackers.</image:caption>
+        <image:geo_location>India</image:geo_location>
+    </image:image>
+
+    <!-- 4. Points Table & NRR Screenshot -->
+    <image:image>
+        <image:loc>https://i.ibb.co/GQtj6LwR/pointstable-page.jpg</image:loc>
+        <image:title>Automatic Points Tables &amp; Tournament Standings</image:title>
+        <image:caption>Cricket Points Table Generator - Track tournament rankings with automatic standings and a built-in Net Run Rate (NRR) calculator algorithm.</image:caption>
+        <image:geo_location>India</image:geo_location>
+    </image:image>
+
+    <!-- 5. Match History Screenshot -->
+    <image:image>
+        <image:loc>https://i.ibb.co/bgf7n3Rz/match-history-page.jpg</image:loc>
+        <image:title>Access Previous Matches and Digital Scorecards</image:title>
+        <image:caption>Cricket Match History - Access previous match records, comprehensive digital scorecards, match summaries, and overall player tournament history.</image:caption>
+        <image:geo_location>India</image:geo_location>
+    </image:image>
+
+    <!-- 6. DLS Calculator Screenshot -->
+    <image:image>
+        <image:loc>https://i.ibb.co/JjNrBnYP/dls-calculator-page.jpg</image:loc>
+        <image:title>DLS Calculator for Rain Affected Gully Cricket Matches</image:title>
+        <image:caption>Universal DLS Target Calculator - Instantly calculate revised cricket targets for rain-affected or suspended local matches using the exact Duckworth-Lewis-Stern method.</image:caption>
+        <image:geo_location>India</image:geo_location>
+    </image:image>
+
+    <!-- 7. Refer & Earn Screenshot -->
+    <image:image>
+        <image:loc>https://i.ibb.co/CpzT3Q9v/refer-earn-Gully-Scorer.png</image:loc>
+        <image:title>Invite Friends to the Cricket Community and Earn Cash</image:title>
+        <image:caption>Refer and Earn Rewards Online - Invite local cricket players to the Live Gully Cricket Scorer platform and earn real cash straight to your UPI account.</image:caption>
+        <image:geo_location>India</image:geo_location>
+    </image:image>
+
+    <!-- 8. Developer Profile Photo -->
+    <image:image>
+        <image:loc>https://i.ibb.co/LmGLJb4/Whats-App-Image-2025-12-30-at-8-49-49-PM.jpg</image:loc>
+        <image:title>Pabitra Mondal - Lead Full-Stack Developer</image:title>
+        <image:caption>Pabitra Mondal, Lead Full-Stack Developer, Computer Science Student, and Creator of the Live Gully Cricket Scorer ecosystem.</image:caption>
+        <image:geo_location>India</image:geo_location>
+    </image:image>
+</url>
